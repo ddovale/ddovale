@@ -30,4 +30,5 @@ Exceptional to my life of technology, :musical_keyboard: i'm a pianist , <img sr
   
 <code><img src="https://img.icons8.com/color/50/000000/xamarin.png"/> Xamarin |
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Apache-nifi-logo.svg/50px-Apache-nifi-logo.svg.png"/> NIFI |
-<img src="https://img.icons8.com/ios-filled/50/000000/git.png"/> Git</code>
+<img src="https://img.icons8.com/ios-filled/50/000000/git.png"/> Git |
+<img src="https://img.icons8.com/color/50/000000/adobe-photoshop.png"/> Photoshop</code>
