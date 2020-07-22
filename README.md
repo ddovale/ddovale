@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ddovale/ddovale/blob/master/Banner.png" width="1000"/></p>
+<p align="center"><img src="https://github.com/ddovale/ddovale/blob/master/Banner2.png" width="1000"/></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-do-vale-e-silva-696271144/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dovale.daniel07@gmail.com) [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat&labelColor=000000&logo=Medium)](https://medium.com/@dovale.daniel07) [![DeviantArt Badge](https://img.shields.io/badge/-DeviantArt-1a1f24?style=flat&logo=DeviantArt&logoColor=01a874)](https://www.deviantart.com/danielambipom/gallery) 
 
