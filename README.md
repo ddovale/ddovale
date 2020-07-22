@@ -11,7 +11,7 @@ Graduated at technology university "FATEC São Paulo" since December, 2019, but 
 
 I love the art of creating new things on my computer and seeing them work out there :octocat:. Backend.. Frontend.. i can live happily with both, but I prefer to work with backend, creating scalable systems and worrying about performance and complex algorithms.
 
-Exceptional to my life of technology, :musical_keyboard: i'm a pianist , <img src="https://img.icons8.com/cotton/20/000000/volleyball.png"/> volleyball player and <img src="https://img.icons8.com/ios-filled/20/000000/pullups.png"/> calisthenics practitioner.
+Besides of my technology life, :musical_keyboard: I am also a pianist , <img src="https://img.icons8.com/cotton/20/000000/volleyball.png"/> volleyball player and <img src="https://img.icons8.com/ios-filled/20/000000/pullups.png"/> calisthenics practitioner.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
