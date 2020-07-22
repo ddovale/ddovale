@@ -21,14 +21,13 @@ Exceptional to my life of technology, :musical_keyboard: i'm a pianist , <img sr
 <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/> C# | 
 <img src="https://img.icons8.com/officel/50/000000/php-logo.png"/> PHP |
 <img src="https://img.icons8.com/metro/50/000000/sql.png"/> SQL |
-<img src="https://img.icons8.com/color/50/000000/javascript.png"/> JS</code>
-
-<code><img src="https://img.icons8.com/color/50/000000/docker.png"/> Docker |
-<img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" width="50" height="50"/> RabbitMQ |
-<img src="https://img.icons8.com/color/50/000000/redis.png"/> Redis |
-<img src="https://img.icons8.com/color/50/000000/elasticsearch.png"/> Elastic</code>
+<img src="https://img.icons8.com/color/50/000000/javascript.png"/> JS |
+<img src="https://img.icons8.com/color/50/000000/docker.png"/> Docker |
+<img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" width="50" height="50"/> RabbitMQ</code>
   
-<code><img src="https://img.icons8.com/color/50/000000/xamarin.png"/> Xamarin |
+<code><img src="https://img.icons8.com/color/50/000000/redis.png"/> Redis |
+<img src="https://img.icons8.com/color/50/000000/elasticsearch.png"/> Elastic |
+<img src="https://img.icons8.com/color/50/000000/xamarin.png"/> Xamarin |
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Apache-nifi-logo.svg/50px-Apache-nifi-logo.svg.png"/> NIFI |
 <img src="https://img.icons8.com/ios-filled/50/000000/git.png"/> Git |
 <img src="https://img.icons8.com/color/50/000000/adobe-photoshop.png"/> Photoshop</code>
